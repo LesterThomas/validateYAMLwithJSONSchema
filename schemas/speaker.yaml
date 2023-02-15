@@ -1,0 +1,21 @@
+type: object
+properties:
+  bio:
+    type: string
+  email:
+    type: string
+  img:
+    type: string
+  name:
+    type: string
+  organization:
+    type: string
+  title:
+    type: string
+required:
+  - bio
+  - email
+  - img
+  - name
+  - organization
+  - title

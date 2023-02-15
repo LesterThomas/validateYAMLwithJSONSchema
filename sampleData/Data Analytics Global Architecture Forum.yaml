@@ -1,0 +1,88 @@
+description: "In this GAF we will demonstrate how Data and Analytics bring life to\
+  \ Vodafone.\\nBeing able to efficiently locate, interpret, protect, organise and\
+  \ use data is critical in; Improving our business performance, by providing the\
+  \ accurate and reliable information needed to make better, faster decisions at both\
+  \ Local Market and Group level; fulfilling our customers\u2019 service expectations\
+  \ in a digital world and; meeting our compliance and security requirements."
+endDate: '2021-09-29 08:30:00'
+eventImage: https://github.vodafone.com/pages/GT-TSA-Software-Engineering-CoE/GAF-static/profile_pictures/dataanalyticsgaf.jpg
+eventWebsiteLink: true
+futureEvent: false
+name: Data Analytics Global Architecture Forum
+presentations:
+- name: Data Analytics Strategy Key Note Presentation
+  presentationLink: ''
+  speakers:
+  - Vicente Rustarazo Hervas
+  videoLink: https://web.microsoftstream.com/video/1efa2318-0b6a-4382-886c-1aeab1b0a4a7?list=studio
+- name: Data Movement, Project Dynamo
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/505/1%2002%20Data%20Architecture%20GAF%20Data%20Movement%20-%20Dynamo.pptx?web=1
+  speakers:
+  - Robert Trybulec
+  videoLink: https://web.microsoftstream.com/video/43df1a07-a0f8-4bdd-b1a1-610fdea6750b?list=studio
+- name: Artificial Intelligence and Machine Learning
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/506/1%2003%20Data%20Analytics%20GAF%20RI_Data_GAF_Final.pdf?web=1
+  speakers:
+  - Jindong Hou
+  - Josh Bello
+  - Fiona Lau
+  videoLink: https://web.microsoftstream.com/video/4e626ebb-d93a-46f2-81fe-91ff33cb59a9?list=studio
+- name: Gaia-X, Industry Standard for Data and Services
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/504/1%2004%20Data%20Analytics%20GAF%20GAIA-X%20for%20GAF%202021.pptx?web=1
+  speakers:
+  - Kevin Smith
+  videoLink: https://web.microsoftstream.com/video/51c753bb-6f32-4d2a-92cf-6a3b70176938?list=studio
+- name: Data Governance, Data Catalog and Data Quality
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/507/1%2005%20Data%20Analytics%20GAF%20Data%20Catalogue%20Data%20Quality.pptx?web=1
+  speakers:
+  - Atul Ruparelia
+  - Mohamed Zaki
+  - Anshita Bhatia
+  videoLink: https://web.microsoftstream.com/video/b18abcf4-fab6-42fb-9b49-156a09abe965?list=studio
+- name: Data Model CIM (Common Information Model)
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/508/1%2006%20Data%20Architecture%20GAF%20CIM.pptx?web=1
+  speakers:
+  - Suryakant Rathore
+  videoLink: https://web.microsoftstream.com/video/01a1f0a6-84a7-4613-a08c-b1f01cf0fb16?list=studio
+- name: Corporate Data Governance, Programme Update
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/503/1%2007%20Dtata%20Analytics%20GAF%20Corporate%20Data%20Governance.pptx?web=1
+  speakers:
+  - Fede Fuemento
+  videoLink: https://web.microsoftstream.com/video/331211e4-d240-4bff-9427-d54fad672255?list=studio
+- name: Rapid Development Approach, Project Anvil
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/509/1%2008%20Data%20Analytics%20GAF%20Rapid%20Development%20Approach%20Project%20Anvil.pptx?web=1
+  speakers: []
+  videoLink: https://web.microsoftstream.com/video/e573339c-ba33-41b0-ba4e-2a698c100542?list=studio
+- name: Customer Data Platform, How Analytics are helping to shape the future of Vodafone
+    Digital Marketing
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/511/2%2003%20Data%20Analytics%20GAF%20Customer%20Data%20Platform%20Overview.pptx?web=1
+  speakers: []
+  videoLink: https://web.microsoftstream.com/video/147c952c-dd4c-4a95-8d86-073000c4da08?list=studio
+- name: Advanced Analytics, AI Booster
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/512/2%2002%20Data%20Analytics%20GAF%20Advanced%20Analytics%20AI%20Booster.pptx?web=1
+  speakers:
+  - Anand Pandit
+  - Ashish Vijayvargia
+  - Sobhan Afroosheh
+  videoLink: https://web.microsoftstream.com/video/bd3345df-54c6-4a62-8d3e-c133d18dd7ad?list=studio
+- name: Always on Marketing, scaling the Pega AoM programme across european markets
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/510/2%2001%20Data%20Analytics%20GAF%20Always%20on%20Marketing%202021.pptx?web=1
+  speakers:
+  - Antonio Pellegrino
+  videoLink: https://web.microsoftstream.com/video/78564896-6b8b-4a91-8e15-7ed152e474af?list=studio
+- name: Data Governance, Network Anomoly Detection Service
+  presentationLink: https://vodafone.sharepoint.com/sites/GlobalITArchitecture/Lists/GAF/Attachments/513/2%2004%20Data%20Analytics%20GAF%20Network%20Anomaly%20Detection.pdf?web=1
+  speakers: []
+  videoLink: ''
+- name: Data Analytics Expert Panel
+  presentationLink: ''
+  speakers: []
+  videoLink: https://web.microsoftstream.com/video/593a86f7-c0d9-4761-8e80-95ae6a6ff194?list=studio
+- name: Data Ocean, Update on Nucleas & Neuron Programme
+  presentationLink: ''
+  speakers:
+  - Andy Shacklady
+  videoLink: ''
+startDate: '2021-09-28 08:30:00'
+subtitle: Data is the lifeblood of Vodafone
+videoLink: https://web.microsoftstream.com/video/fed4bec7-4a89-4c20-a54d-a061a2ec8fa4

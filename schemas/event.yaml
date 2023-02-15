@@ -1,0 +1,51 @@
+type: object
+properties:
+  name:
+    type: string
+  subtitle:
+    type: string
+  description:
+    type: string
+  startDate:
+    type: string
+  endDate:
+    type: string
+  videoLink:
+    type: string
+  eventImage:
+    type: string
+  eventWebsiteLink:
+    type: boolean
+  futureEvent:
+    type: boolean
+  presentations:
+    type: array
+    items:
+      - type: object
+        properties:
+          name:
+            type: string
+          presentationLink:
+            type: string
+          videoLink:
+            type: string
+          speakers:
+            type: array
+            items:
+              - type: string
+        required:
+          - name
+          - presentationLink
+          - speakers
+          - videoLink
+required:
+  - description
+  - endDate
+  - eventImage
+  - eventWebsiteLink
+  - futureEvent
+  - name
+  - presentations
+  - startDate
+  - subtitle
+  - videoLink
